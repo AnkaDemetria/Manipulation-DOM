@@ -1,0 +1,11 @@
+#maDiv {
+    display: none;
+    background: blue;
+    width: 100px;
+    height: 100px;
+}
+#maDiv.active {
+    display: block;
+    width: 250px;
+    height: 250px;
+}
